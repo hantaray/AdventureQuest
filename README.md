@@ -14,7 +14,7 @@ A text-based RPG for desktop made with C#
 
 ## Run
 
-Download and execute the adventurequest.exe
+Download and execute the AdventureQuest.exe
 
 
 
