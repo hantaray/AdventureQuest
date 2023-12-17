@@ -10,7 +10,7 @@
 
 ## Description
 
-A text-based RPG for desktop made in Visual Studio with C#
+A text-based RPG for desktop made with C# in Visual Studio.
 
 ## Run
 
